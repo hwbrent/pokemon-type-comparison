@@ -1,0 +1,956 @@
+{
+    "Normal": [
+        {
+            "Fire": "normal"
+        },
+        {
+            "Water": "normal"
+        },
+        {
+            "Electric": "normal"
+        },
+        {
+            "Grass": "normal"
+        },
+        {
+            "Ice": "normal"
+        },
+        {
+            "Fighting": "normal"
+        },
+        {
+            "Poison": "normal"
+        },
+        {
+            "Ground": "normal"
+        },
+        {
+            "Flying": "normal"
+        },
+        {
+            "Psychic": "normal"
+        },
+        {
+            "Bug": "normal"
+        },
+        {
+            "Rock": "not"
+        },
+        {
+            "Ghost": "no"
+        },
+        {
+            "Dragon": "normal"
+        },
+        {
+            "Dark": "normal"
+        },
+        {
+            "Steel": "not"
+        },
+        {
+            "Fairy": "normal"
+        }
+    ],
+    "Fire": [
+        {
+            "Fire": "not"
+        },
+        {
+            "Water": "not"
+        },
+        {
+            "Electric": "normal"
+        },
+        {
+            "Grass": "super-effective"
+        },
+        {
+            "Ice": "super-effective"
+        },
+        {
+            "Fighting": "normal"
+        },
+        {
+            "Poison": "normal"
+        },
+        {
+            "Ground": "normal"
+        },
+        {
+            "Flying": "normal"
+        },
+        {
+            "Psychic": "normal"
+        },
+        {
+            "Bug": "super-effective"
+        },
+        {
+            "Rock": "not"
+        },
+        {
+            "Ghost": "normal"
+        },
+        {
+            "Dragon": "not"
+        },
+        {
+            "Dark": "normal"
+        },
+        {
+            "Steel": "super-effective"
+        },
+        {
+            "Fairy": "normal"
+        }
+    ],
+    "Water": [
+        {
+            "Fire": "super-effective"
+        },
+        {
+            "Water": "not"
+        },
+        {
+            "Electric": "normal"
+        },
+        {
+            "Grass": "not"
+        },
+        {
+            "Ice": "normal"
+        },
+        {
+            "Fighting": "normal"
+        },
+        {
+            "Poison": "normal"
+        },
+        {
+            "Ground": "super-effective"
+        },
+        {
+            "Flying": "normal"
+        },
+        {
+            "Psychic": "normal"
+        },
+        {
+            "Bug": "normal"
+        },
+        {
+            "Rock": "super-effective"
+        },
+        {
+            "Ghost": "normal"
+        },
+        {
+            "Dragon": "not"
+        },
+        {
+            "Dark": "normal"
+        },
+        {
+            "Steel": "normal"
+        },
+        {
+            "Fairy": "normal"
+        }
+    ],
+    "Electric": [
+        {
+            "Fire": "normal"
+        },
+        {
+            "Water": "super-effective"
+        },
+        {
+            "Electric": "not"
+        },
+        {
+            "Grass": "not"
+        },
+        {
+            "Ice": "normal"
+        },
+        {
+            "Fighting": "normal"
+        },
+        {
+            "Poison": "normal"
+        },
+        {
+            "Ground": "no"
+        },
+        {
+            "Flying": "super-effective"
+        },
+        {
+            "Psychic": "normal"
+        },
+        {
+            "Bug": "normal"
+        },
+        {
+            "Rock": "normal"
+        },
+        {
+            "Ghost": "normal"
+        },
+        {
+            "Dragon": "not"
+        },
+        {
+            "Dark": "normal"
+        },
+        {
+            "Steel": "normal"
+        },
+        {
+            "Fairy": "normal"
+        }
+    ],
+    "Grass": [
+        {
+            "Fire": "not"
+        },
+        {
+            "Water": "super-effective"
+        },
+        {
+            "Electric": "normal"
+        },
+        {
+            "Grass": "not"
+        },
+        {
+            "Ice": "normal"
+        },
+        {
+            "Fighting": "normal"
+        },
+        {
+            "Poison": "not"
+        },
+        {
+            "Ground": "super-effective"
+        },
+        {
+            "Flying": "not"
+        },
+        {
+            "Psychic": "normal"
+        },
+        {
+            "Bug": "not"
+        },
+        {
+            "Rock": "super-effective"
+        },
+        {
+            "Ghost": "normal"
+        },
+        {
+            "Dragon": "not"
+        },
+        {
+            "Dark": "normal"
+        },
+        {
+            "Steel": "not"
+        },
+        {
+            "Fairy": "normal"
+        }
+    ],
+    "Ice": [
+        {
+            "Fire": "not"
+        },
+        {
+            "Water": "not"
+        },
+        {
+            "Electric": "normal"
+        },
+        {
+            "Grass": "super-effective"
+        },
+        {
+            "Ice": "not"
+        },
+        {
+            "Fighting": "normal"
+        },
+        {
+            "Poison": "normal"
+        },
+        {
+            "Ground": "super-effective"
+        },
+        {
+            "Flying": "super-effective"
+        },
+        {
+            "Psychic": "normal"
+        },
+        {
+            "Bug": "normal"
+        },
+        {
+            "Rock": "normal"
+        },
+        {
+            "Ghost": "normal"
+        },
+        {
+            "Dragon": "super-effective"
+        },
+        {
+            "Dark": "normal"
+        },
+        {
+            "Steel": "not"
+        },
+        {
+            "Fairy": "normal"
+        }
+    ],
+    "Fighting": [
+        {
+            "Fire": "normal"
+        },
+        {
+            "Water": "normal"
+        },
+        {
+            "Electric": "normal"
+        },
+        {
+            "Grass": "normal"
+        },
+        {
+            "Ice": "super-effective"
+        },
+        {
+            "Fighting": "normal"
+        },
+        {
+            "Poison": "not"
+        },
+        {
+            "Ground": "normal"
+        },
+        {
+            "Flying": "not"
+        },
+        {
+            "Psychic": "not"
+        },
+        {
+            "Bug": "not"
+        },
+        {
+            "Rock": "super-effective"
+        },
+        {
+            "Ghost": "no"
+        },
+        {
+            "Dragon": "normal"
+        },
+        {
+            "Dark": "super-effective"
+        },
+        {
+            "Steel": "super-effective"
+        },
+        {
+            "Fairy": "not"
+        }
+    ],
+    "Poison": [
+        {
+            "Fire": "normal"
+        },
+        {
+            "Water": "normal"
+        },
+        {
+            "Electric": "normal"
+        },
+        {
+            "Grass": "super-effective"
+        },
+        {
+            "Ice": "normal"
+        },
+        {
+            "Fighting": "normal"
+        },
+        {
+            "Poison": "not"
+        },
+        {
+            "Ground": "not"
+        },
+        {
+            "Flying": "normal"
+        },
+        {
+            "Psychic": "normal"
+        },
+        {
+            "Bug": "normal"
+        },
+        {
+            "Rock": "not"
+        },
+        {
+            "Ghost": "not"
+        },
+        {
+            "Dragon": "normal"
+        },
+        {
+            "Dark": "normal"
+        },
+        {
+            "Steel": "no"
+        },
+        {
+            "Fairy": "super-effective"
+        }
+    ],
+    "Ground": [
+        {
+            "Fire": "super-effective"
+        },
+        {
+            "Water": "normal"
+        },
+        {
+            "Electric": "super-effective"
+        },
+        {
+            "Grass": "not"
+        },
+        {
+            "Ice": "normal"
+        },
+        {
+            "Fighting": "normal"
+        },
+        {
+            "Poison": "super-effective"
+        },
+        {
+            "Ground": "normal"
+        },
+        {
+            "Flying": "no"
+        },
+        {
+            "Psychic": "normal"
+        },
+        {
+            "Bug": "not"
+        },
+        {
+            "Rock": "super-effective"
+        },
+        {
+            "Ghost": "normal"
+        },
+        {
+            "Dragon": "normal"
+        },
+        {
+            "Dark": "normal"
+        },
+        {
+            "Steel": "super-effective"
+        },
+        {
+            "Fairy": "normal"
+        }
+    ],
+    "Flying": [
+        {
+            "Fire": "normal"
+        },
+        {
+            "Water": "normal"
+        },
+        {
+            "Electric": "not"
+        },
+        {
+            "Grass": "super-effective"
+        },
+        {
+            "Ice": "normal"
+        },
+        {
+            "Fighting": "super-effective"
+        },
+        {
+            "Poison": "normal"
+        },
+        {
+            "Ground": "normal"
+        },
+        {
+            "Flying": "normal"
+        },
+        {
+            "Psychic": "normal"
+        },
+        {
+            "Bug": "super-effective"
+        },
+        {
+            "Rock": "not"
+        },
+        {
+            "Ghost": "normal"
+        },
+        {
+            "Dragon": "normal"
+        },
+        {
+            "Dark": "normal"
+        },
+        {
+            "Steel": "not"
+        },
+        {
+            "Fairy": "normal"
+        }
+    ],
+    "Psychic": [
+        {
+            "Fire": "normal"
+        },
+        {
+            "Water": "normal"
+        },
+        {
+            "Electric": "normal"
+        },
+        {
+            "Grass": "normal"
+        },
+        {
+            "Ice": "normal"
+        },
+        {
+            "Fighting": "super-effective"
+        },
+        {
+            "Poison": "super-effective"
+        },
+        {
+            "Ground": "normal"
+        },
+        {
+            "Flying": "normal"
+        },
+        {
+            "Psychic": "not"
+        },
+        {
+            "Bug": "normal"
+        },
+        {
+            "Rock": "normal"
+        },
+        {
+            "Ghost": "normal"
+        },
+        {
+            "Dragon": "normal"
+        },
+        {
+            "Dark": "no"
+        },
+        {
+            "Steel": "not"
+        },
+        {
+            "Fairy": "normal"
+        }
+    ],
+    "Bug": [
+        {
+            "Fire": "not"
+        },
+        {
+            "Water": "normal"
+        },
+        {
+            "Electric": "normal"
+        },
+        {
+            "Grass": "super-effective"
+        },
+        {
+            "Ice": "normal"
+        },
+        {
+            "Fighting": "not"
+        },
+        {
+            "Poison": "not"
+        },
+        {
+            "Ground": "normal"
+        },
+        {
+            "Flying": "not"
+        },
+        {
+            "Psychic": "super-effective"
+        },
+        {
+            "Bug": "normal"
+        },
+        {
+            "Rock": "normal"
+        },
+        {
+            "Ghost": "not"
+        },
+        {
+            "Dragon": "normal"
+        },
+        {
+            "Dark": "super-effective"
+        },
+        {
+            "Steel": "not"
+        },
+        {
+            "Fairy": "not"
+        }
+    ],
+    "Rock": [
+        {
+            "Fire": "super-effective"
+        },
+        {
+            "Water": "normal"
+        },
+        {
+            "Electric": "normal"
+        },
+        {
+            "Grass": "normal"
+        },
+        {
+            "Ice": "super-effective"
+        },
+        {
+            "Fighting": "not"
+        },
+        {
+            "Poison": "normal"
+        },
+        {
+            "Ground": "not"
+        },
+        {
+            "Flying": "super-effective"
+        },
+        {
+            "Psychic": "normal"
+        },
+        {
+            "Bug": "super-effective"
+        },
+        {
+            "Rock": "normal"
+        },
+        {
+            "Ghost": "normal"
+        },
+        {
+            "Dragon": "normal"
+        },
+        {
+            "Dark": "normal"
+        },
+        {
+            "Steel": "not"
+        },
+        {
+            "Fairy": "normal"
+        }
+    ],
+    "Ghost": [
+        {
+            "Fire": "normal"
+        },
+        {
+            "Water": "normal"
+        },
+        {
+            "Electric": "normal"
+        },
+        {
+            "Grass": "normal"
+        },
+        {
+            "Ice": "normal"
+        },
+        {
+            "Fighting": "normal"
+        },
+        {
+            "Poison": "normal"
+        },
+        {
+            "Ground": "normal"
+        },
+        {
+            "Flying": "normal"
+        },
+        {
+            "Psychic": "super-effective"
+        },
+        {
+            "Bug": "normal"
+        },
+        {
+            "Rock": "normal"
+        },
+        {
+            "Ghost": "super-effective"
+        },
+        {
+            "Dragon": "normal"
+        },
+        {
+            "Dark": "not"
+        },
+        {
+            "Steel": "normal"
+        },
+        {
+            "Fairy": "normal"
+        }
+    ],
+    "Dragon": [
+        {
+            "Fire": "normal"
+        },
+        {
+            "Water": "normal"
+        },
+        {
+            "Electric": "normal"
+        },
+        {
+            "Grass": "normal"
+        },
+        {
+            "Ice": "normal"
+        },
+        {
+            "Fighting": "normal"
+        },
+        {
+            "Poison": "normal"
+        },
+        {
+            "Ground": "normal"
+        },
+        {
+            "Flying": "normal"
+        },
+        {
+            "Psychic": "normal"
+        },
+        {
+            "Bug": "normal"
+        },
+        {
+            "Rock": "normal"
+        },
+        {
+            "Ghost": "normal"
+        },
+        {
+            "Dragon": "super-effective"
+        },
+        {
+            "Dark": "normal"
+        },
+        {
+            "Steel": "not"
+        },
+        {
+            "Fairy": "no"
+        }
+    ],
+    "Dark": [
+        {
+            "Fire": "normal"
+        },
+        {
+            "Water": "normal"
+        },
+        {
+            "Electric": "normal"
+        },
+        {
+            "Grass": "normal"
+        },
+        {
+            "Ice": "normal"
+        },
+        {
+            "Fighting": "not"
+        },
+        {
+            "Poison": "normal"
+        },
+        {
+            "Ground": "normal"
+        },
+        {
+            "Flying": "normal"
+        },
+        {
+            "Psychic": "super-effective"
+        },
+        {
+            "Bug": "normal"
+        },
+        {
+            "Rock": "normal"
+        },
+        {
+            "Ghost": "super-effective"
+        },
+        {
+            "Dragon": "normal"
+        },
+        {
+            "Dark": "not"
+        },
+        {
+            "Steel": "normal"
+        },
+        {
+            "Fairy": "not"
+        }
+    ],
+    "Steel": [
+        {
+            "Fire": "not"
+        },
+        {
+            "Water": "not"
+        },
+        {
+            "Electric": "not"
+        },
+        {
+            "Grass": "normal"
+        },
+        {
+            "Ice": "super-effective"
+        },
+        {
+            "Fighting": "normal"
+        },
+        {
+            "Poison": "normal"
+        },
+        {
+            "Ground": "normal"
+        },
+        {
+            "Flying": "normal"
+        },
+        {
+            "Psychic": "normal"
+        },
+        {
+            "Bug": "normal"
+        },
+        {
+            "Rock": "super-effective"
+        },
+        {
+            "Ghost": "normal"
+        },
+        {
+            "Dragon": "normal"
+        },
+        {
+            "Dark": "normal"
+        },
+        {
+            "Steel": "not"
+        },
+        {
+            "Fairy": "super-effective"
+        }
+    ],
+    "Fairy": [
+        {
+            "Fire": "not"
+        },
+        {
+            "Water": "normal"
+        },
+        {
+            "Electric": "normal"
+        },
+        {
+            "Grass": "normal"
+        },
+        {
+            "Ice": "normal"
+        },
+        {
+            "Fighting": "super-effective"
+        },
+        {
+            "Poison": "not"
+        },
+        {
+            "Ground": "normal"
+        },
+        {
+            "Flying": "normal"
+        },
+        {
+            "Psychic": "normal"
+        },
+        {
+            "Bug": "normal"
+        },
+        {
+            "Rock": "normal"
+        },
+        {
+            "Ghost": "normal"
+        },
+        {
+            "Dragon": "super-effective"
+        },
+        {
+            "Dark": "super-effective"
+        },
+        {
+            "Steel": "not"
+        },
+        {
+            "Fairy": "normal"
+        }
+    ]
+}
